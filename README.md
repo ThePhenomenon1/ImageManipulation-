@@ -6,6 +6,7 @@ The resource image processed here is of a wise star traveller who shall help nob
 against an alien invasion. 
 As the dark clouds gather, Earth is left with no choice but to prepare.
 The valorous NOHTYPs and the glorious AVAJs have been summoned for duty. 
-More spine-tingling information to be released soon on my upcoming Django web application.
+
+More spine-tingling information to be released soon on my upcoming Django web application, to be reased on Heroku and it could even feature the powerful Django REST Framework.
 
 The Phenomenon 
