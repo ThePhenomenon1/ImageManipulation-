@@ -7,7 +7,7 @@ against an alien invasion.
 As the dark clouds gather, Earth is left with no choice but to prepare.
 The valorous NOHTYPs and the glorious AVAJs have been summoned for duty. 
 
-More spine-tingling information to be released soon on my upcoming Django Rest Framework web application, released on the cloud platform Railway.App:-
+More spine-tingling information to be released soon on my Superhero / Django Rest Framework web application, released on the cloud platform Railway.App:-
 
 https://pizza-delivery-superhero-api-production.up.railway.app
 
