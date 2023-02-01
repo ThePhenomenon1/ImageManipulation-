@@ -9,6 +9,6 @@ The valorous NOHTYPs and the glorious AVAJs have been summoned for duty.
 
 More spine-tingling information to be released soon on my Superhero / Django Rest Framework web application, hosted on the powerful cloud platform Railway.App and powered by AWS:-
 
-https://pizza-delivery-superhero-api-production.up.railway.app
+https://pizzadeliverysuperheroapi-production.up.railway.app
 
 The Phenomenon 
