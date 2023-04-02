@@ -7,7 +7,7 @@ against an alien invasion.
 As the dark clouds gather, Earth is left with no choice but to prepare. The council of Elders has spoken.
 The valorous NOHTYPs and the glorious AVAJs have been summoned for duty. 
 
-More spine-tingling information to be released soon on my Superhero / Django Rest Framework web application, hosted on the powerful cloud platform Railway.App and powered by AWS:-
+More spine-tingling information to be released soon on my Superhero / Django Rest Framework web application, powered by AWS:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
 
