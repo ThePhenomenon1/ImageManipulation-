@@ -4,7 +4,7 @@ Executing cool image processing with Python code.
 
 The mysterious resource image processed here is of a wise star traveller who shall help noble coders (the very best of humanity) protect our dear Milky Way galaxy
 against an alien invasion. This guru's title is Raykurz.
-As the dark clouds gather, Earth is left with no choice but to prepare. The council of Elders has spoken.
+As the dark clouds gather, Earth is left with no choice but to prepare. When shall Generalissimo Cyborg and his minions make their move? The council of Elders has spoken.
 The valorous NOHTYPs and the glorious AVAJs have been summoned for duty. 
 
 More spine-tingling information to be released soon on my Superhero / Django Rest Framework web application, powered by AWS:-
