@@ -6,8 +6,8 @@ The mysterious resource image processed here is of a wise star traveller who sha
 against an alien invasion. This guru's title is Raykurz.
 As the dark clouds gather, Earth is left with no choice but to prepare. 
 
-When shall Generalissimo Cyborg and his minions make their move? The council of Elders has pored over the Software Scrolls and has spoken.
-The valorous NOHTYPs and the glorious AVAJs have been summoned for duty. 
+When shall Generalissimo Cyborg and his minions make their move? Shall Electric Woman, Whirlwind and the Organic Craft of War arrive in time? 
+The council of Elders has pored over the Software Scrolls and has spoken. The valorous NOHTYPs and the glorious AVAJs have been summoned for duty. 
 
 More spine-tingling information to be released soon on my Superhero / Django Rest Framework web application, powered by AWS:-
 
