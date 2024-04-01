@@ -3,7 +3,7 @@
 Executing cool image processing with Python code.
 
 The mysterious resource image processed here is of a wise star traveller who shall help noble coders (the very best of humanity) protect our one-of-a-kind Milky Way galaxy
-against an alien invasion. This guru's title is Raykurz.
+against an alien invasion. An explorer of the Fountain of Youth, this guru's title is Raykurz.
 As the ominous dark clouds gather over the horizon, Earth is left with no choice but to prepare. 
 
 When shall Generalissimo Cyborg and his minions make their move? Shall Electric Woman, Whirlwind and the Organic Craft of War arrive in time? 
